@@ -13,12 +13,9 @@ Install the required Python packages using:
 ## Inference
 
 Run segmentation on your dataset using:
-```python HM2-Net/test_ours.py
+`python HM2-Net/test_ours.py
 --volume_path /path/to/your/volume
---model_dir /path/to/saved/model```
+--model_dir /path/to/saved/model`
 - `--volume_path`: Path to the input volume directory (e.g., NIfTI or DICOM series).
 - `--model_dir`: Path to the pre-trained model directory (e.g., `.pth` file or checkpoint folder).
 
-## Citation
-
-If you find HM2-Net useful for your research, please cite:
