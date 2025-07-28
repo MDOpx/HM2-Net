@@ -16,6 +16,6 @@ Run segmentation on your dataset using:
 `python HM2-Net/test_ours.py
 --volume_path /path/to/your/volume
 --model_dir /path/to/saved/model`
-- `--volume_path`: Path to the input volume directory (e.g., NIfTI or DICOM series).
+- `--volume_path`: Path to the input volume directory
 - `--model_dir`: Path to the pre-trained model directory (e.g., `.pth` file or checkpoint folder).
 
