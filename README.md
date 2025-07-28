@@ -8,7 +8,7 @@ This repository provides the official implementation of **HM2-Net**, a hybrid U-
 - Install the required Python packages using:
 `pip install -r hm2net/requirements.txt`
 
-## 📦 Pretrained Models (Optional for ViT-based backbones)
+## Pretrained Models (Optional for ViT-based backbones)
 You can download ViT-based pretrained models from the following link:
 `https://storage.googleapis.com/vit_models/imagenet21k/{MODEL_NAME}.npz`
 Example models:
