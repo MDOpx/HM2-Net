@@ -1,0 +1,143 @@
+Evaluation Metrics for /home/shuoxing/data/TransUNet/Results/KAT/ETIS
+
+Model: KAT-104
+Dice: 0.6791
+IoU: 0.5963
+Recall: 0.7775
+Precision: 0.3395
+Hausdorff: 63.6979
+
+Model: KAT-109
+Dice: 0.6972
+IoU: 0.6145
+Recall: 0.8047
+Precision: 0.3486
+Hausdorff: 66.6610
+
+Model: KAT-114
+Dice: 0.6743
+IoU: 0.5884
+Recall: 0.8041
+Precision: 0.3372
+Hausdorff: 68.4479
+
+Model: KAT-119
+Dice: 0.6944
+IoU: 0.6139
+Recall: 0.8081
+Precision: 0.3472
+Hausdorff: 68.7751
+
+Model: KAT-124
+Dice: 0.7066
+IoU: 0.6220
+Recall: 0.8113
+Precision: 0.3533
+Hausdorff: 62.5446
+
+Model: KAT-129
+Dice: 0.6915
+IoU: 0.6139
+Recall: 0.8055
+Precision: 0.3457
+Hausdorff: 66.7466
+
+Model: KAT-134
+Dice: 0.6949
+IoU: 0.6106
+Recall: 0.7989
+Precision: 0.3475
+Hausdorff: 64.5930
+
+Model: KAT-139
+Dice: 0.6973
+IoU: 0.6191
+Recall: 0.8199
+Precision: 0.3486
+Hausdorff: 69.6266
+
+Model: KAT-144
+Dice: 0.6934
+IoU: 0.6098
+Recall: 0.7973
+Precision: 0.3467
+Hausdorff: 64.1815
+
+Model: KAT-149
+Dice: 0.6909
+IoU: 0.6095
+Recall: 0.8260
+Precision: 0.3455
+Hausdorff: 70.5571
+
+Model: KAT-154
+Dice: 0.7044
+IoU: 0.6188
+Recall: 0.8054
+Precision: 0.3522
+Hausdorff: 64.4210
+
+Model: KAT-159
+Dice: 0.6891
+IoU: 0.6106
+Recall: 0.8135
+Precision: 0.3446
+Hausdorff: 69.0570
+
+Model: KAT-164
+Dice: 0.7019
+IoU: 0.6212
+Recall: 0.7946
+Precision: 0.3509
+Hausdorff: 64.3665
+
+Model: KAT-169
+Dice: 0.6956
+IoU: 0.6169
+Recall: 0.8268
+Precision: 0.3478
+Hausdorff: 69.7052
+
+Model: KAT-174
+Dice: 0.6966
+IoU: 0.6153
+Recall: 0.8031
+Precision: 0.3483
+Hausdorff: 65.7595
+
+Model: KAT-179
+Dice: 0.6954
+IoU: 0.6167
+Recall: 0.8152
+Precision: 0.3477
+Hausdorff: 69.9021
+
+Model: KAT-184
+Dice: 0.7041
+IoU: 0.6236
+Recall: 0.8016
+Precision: 0.3521
+Hausdorff: 63.2546
+
+Model: KAT-189
+Dice: 0.6960
+IoU: 0.6165
+Recall: 0.8233
+Precision: 0.3480
+Hausdorff: 70.2947
+
+Model: KAT-194
+Dice: 0.7011
+IoU: 0.6204
+Recall: 0.7972
+Precision: 0.3505
+Hausdorff: 63.3332
+
+Model: KAT-199
+Dice: 0.6976
+IoU: 0.6184
+Recall: 0.8264
+Precision: 0.3488
+Hausdorff: 69.8067
+
+Best Model: KAT-124 (Dice: 0.7066)
